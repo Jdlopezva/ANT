@@ -1,0 +1,11 @@
+{
+  "name": "react-login",
+  "version": "1.0.0",
+  "description": "login implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b"
+  },
+  "author": "",
+  "license": "ISC"
+}
